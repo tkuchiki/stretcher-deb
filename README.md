@@ -1,7 +1,7 @@
 # stretcher-deb
 stretcher debian package
 
-## Download
+## Download deb package
 
 https://github.com/tkuchiki/stretcher-deb/releases
 
