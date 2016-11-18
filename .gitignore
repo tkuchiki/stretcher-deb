@@ -1,0 +1,12 @@
+stretcher-v*
+*.dsc
+*.deb
+*.changes
+*.tar.gz
+build/stretcher
+build/debian/stretcher
+build/debian/files
+build/debian/*.debhelper*
+build/debian/*.substvars
+build/debian/debhelper-build-stamp
+build/debian/usr/bin/stretcher

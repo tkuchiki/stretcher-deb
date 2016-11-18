@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+
+%:  
+	dh $@
+
+override_dh_auto_install:
+	install -p -D -m 0755 stretcher usr/bin/stretcher

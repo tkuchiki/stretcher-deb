@@ -1,0 +1,10 @@
+Source: stretcher
+Section: utils
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.7
+Maintainer: tkuchiki
+
+Package: stretcher
+Architecture: any
+Priority: extra
+Description: A deployment tool with Consul / Serf event
