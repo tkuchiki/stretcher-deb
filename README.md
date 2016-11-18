@@ -31,3 +31,9 @@ make
 ```
 sudo make install
 ```
+
+## Operability confirmed
+
+- debian8
+- ubuntu14.04
+- ubuntu16.04
